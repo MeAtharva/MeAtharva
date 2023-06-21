@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development, Python Developer, UI Design and App Development!
 - 📫 How to reach me just put a text message on meatharva24@gmail.com
 
-# Personal Website
-https://meatharva.github.io/portfolio/
-
 <!---
 MeAtharva/MeAtharva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
